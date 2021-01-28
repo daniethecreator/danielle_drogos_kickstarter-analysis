@@ -12,12 +12,12 @@ Still looking at the theater category in the US we can give an estimate on which
 
 This trend is similar to the theater trend overall, which hits its highest success in June and then steadily decreased throughout the end of the year. 
 
-![image_name](GB%20Campains%20by%20Category.png)
+![image_name](Overall_Outcomes_Launch_Date.png)
 
 Another interesting find regarding the how the different parent categories under theater did in Great Britain, was that plays had the highest total number of campaigns and the most successful campaigns.
 
+![image_name](GB%20Campains%20by%20Category.png)
 
-![image_name](Overall_Outcomes_Launch_Date.png)
 
 Foresight was a play that Louise mentioned she enjoyed in GB. Looking at that play specifically, we can see that it was successful in achieving its $2,000 goal and that it ran from a short time frame, from the end of April to mid May, which is around the time most plays are successful. Another takeaway from Foresight was that there were only 17 backers and that the average donation was about $118.  
 
