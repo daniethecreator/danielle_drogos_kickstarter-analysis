@@ -16,7 +16,8 @@ This trend is similar to the theater trend overall, which hits its highest succe
 
 Another interesting find regarding the how the different parent categories under theater did in Great Britain, was that plays had the highest total number of campaigns and the most successful campaigns.
 
-![image_name](GB_Goal_and_Pledged_Musical.png)
+
+![image_name](Overall_Outcomes_Launch_Date.png)
 
 Foresight was a play that Louise mentioned she enjoyed in GB. Looking at that play specifically, we can see that it was successful in achieving its $2,000 goal and that it ran from a short time frame, from the end of April to mid May, which is around the time most plays are successful. Another takeaway from Foresight was that there were only 17 backers and that the average donation was about $118.  
 
@@ -31,4 +32,4 @@ Looking through the data, there were some worrisome information that Louise shou
 A deeper dive into the US Theater Statistics helps us determine that since the Standard Deviation Goal is over twice the IQR goal, there must be some outliers of failed campaigns with really high goals that are causing this substantial difference. 
 Louise also mentioned that she’s interested in Great Britain for a future musical project with an estimated budge of £4,000.  After comparing the average Great Britain goal of £4,000 and the average pledged of £2,000, it is safe to assume that the £4,000 is pretty high and although there are some outliers that is skewing the distribution, it would be safer to have a smaller goal, especially considering that ¼ of campaigns are receiving no funding at all. 
 
-![image_name](Overall_Outcomes_Launch_Date.png)
+![image_name](GB_Goal_and_Pledged_Musical.png)
