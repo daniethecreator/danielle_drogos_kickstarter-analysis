@@ -6,3 +6,4 @@ Performing analysis on Kickstarter data to uncover trends
 ![image_name](Edinburgh%20Research.png)
 ![image_name](GB%20Campains%20by%20Category.png)
 ![image_name](Overall_Outcomes_Launch_Date.png)
+![image_name](US_Theater_Statistics.png)
