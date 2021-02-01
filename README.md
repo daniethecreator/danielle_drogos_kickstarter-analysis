@@ -6,7 +6,7 @@ This project was to help Louise know if the Theater parent category and Play sub
 ### Purpose
 The purpose of this analysis is to see if and when the launch date affects a campaign's outcomes specific to Theater and Play Kickstarter projects and to see if there was a monetary goal range that had more success over others.  
 
-### Analysis 
+## Analysis 
 The first task looking at the Theater category was to create a years column using the formula =YEARS(Data Created Conversion cell) for each cell in the column Date Created Conversion after filtering the parent category to show Theater. Once the entire Years column was populated, a pivot table was inserted into a new sheet with Parent Category filtered to the Theater and all years included in the filter. Outcomes were placed in the rows and values with Date Created Conversion in the Columns. Once the original pivot table was created, there were a few tweaks needed before graphing the chart. The first step taken was a right-click on quarters to go to group -> months and then press okay. Now, instead of seeing quarters, months were shown. Under the Column Labels, sorting descending on outcomes to show successful, failed, canceled, and Grand Total in order.  The last few sorts and edits included filtering out the live outcomes and making sure the months were in ascending order. From this, the line graph was created to visualize the pivot table. 
 
 ![image_name](Theater_Outcomes_vs_Launch.png)
