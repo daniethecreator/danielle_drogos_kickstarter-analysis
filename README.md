@@ -6,6 +6,7 @@ This project was to help Louise know if the Theater category and Play subcategor
 ### Purpose
 The purpose of this analysis is to see if and when the launch date affects a campaign's outcomes specific to Theater and Play Kickstarter projects and to see if there was a monetary goal range that had more success over others.  
 
+### Analysis 
 The first task to look at the Theater category was to create a years column using the formula =YEARS(Data Created Conversion cell) for each cell in the column Date Created Conversion after filtering the parent category to show Theater. Once the entire Years column was populated, a pivot table was inserted into a new sheet with Parent Category filtered to the Theater and all years included in the filter. Outcomes were placed in the rows and values with Date Created Conversion in the Columns. Once the original pivot table was created, there were a few tweaks needed before graphing the chart. The first step taken was a right-click on quarters to go to group -> months and then press okay. Now, instead of seeing quarters, months were shown. Under the Column Labels, sorting descending on outcomes to show successful, failed, canceled, and Grand Total in order.  The last few sorts and edits included filtering out the live outcomes and make sure the months were in ascending order. From this, the line graph was created to visualize the pivot table. 
 
 ![image_name](Theater_Outcomes_vs_Launch.png)
@@ -32,8 +33,6 @@ A similar finding is valid for the percentage of failed plays. The graph shows t
 
 The percentage canceled was 0 for each category and may be considered removing and notating this graph. It doesn't add to the story or provide any insights other than no projects were canceled under this data set's plays category.
 
-Overall, although the success and failure percentages dip and spike over the different amounts, a safe conclusion is that the smaller goals had a higher chance of succeeding, and larger goals had a higher chance of failing in terms of percentages. 
-
 
 ### Challenges and Difficulties Encountered
 During this analysis, the challenges encountered included checking the goal amount and the formulas to match the Outcomes Based on Goal Table. The research needed to be precise about the data selected and make sure there weren't too many or few digits in the formulas entered that included multiple identical numbers.  
@@ -48,7 +47,7 @@ A conclusion about the Theater Outcomes by Launch Date is that May is the month 
 
 
 ### Results Outcomes based on Goals
-For the Outcomes-based on Goals, it is safe to say that the first two smallest goals were the most successful and had the highest number of campaigns running or attempting to achieve a higher certainty that this result is valid. 
+For the Outcomes-based on Goals, although the success and failure percentages dip and spike over the different amounts, a safe conclusion is that the smaller goals had a higher chance of succeeding, and larger goals had a higher chance of failing in terms of percentages. 
 
 
 ### Data set Limitations
